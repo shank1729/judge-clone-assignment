@@ -5,7 +5,7 @@ It is an online compiler which has capacity to execute c,c++ and python codes .
 
 first download the package
 ```bash
-git clone https://github.com/surajjbhardwaj/Online-compilar.git
+git clone https://github.com/shank1729/judge-clone-assignment.git
 ```
 
 change directory
@@ -18,12 +18,11 @@ install the dependencies
 npm install
 ```
 
-congrats, it's ready to run at http://localhost:5000
+it's ready to run at http://localhost:5000/get-code
 now run using command
 
 ```bash
 npm start
 ```
 
-see your frontends at https://localhost:5000
-do what you want now.
+Make sure the compilers of C, C++, Java and Python are present in your system. The temp folder should be empty before starting the api.
